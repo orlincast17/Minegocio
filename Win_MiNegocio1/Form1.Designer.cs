@@ -1,7 +1,7 @@
 ﻿
 namespace Win_MiNegocio1
 {
-    partial class Frminiciosesion
+    partial class Frminiciodesesion
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -31,12 +31,12 @@ namespace Win_MiNegocio1
         {
             this.SuspendLayout();
             // 
-            // Frminiciosesion
+            // Frminiciodesesion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(828, 450);
-            this.Name = "Frminiciosesion";
+            this.Name = "Frminiciodesesion";
             this.Text = "inicio de sesion";
             this.ResumeLayout(false);
 

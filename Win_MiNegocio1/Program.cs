@@ -16,7 +16,7 @@ namespace Win_MiNegocio1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frminiciosesion());
+            Application.Run(new Frminiciodesesion());
         }
     }
 }
